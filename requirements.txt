@@ -1,0 +1,8 @@
+torch>=1.11.0
+matplotlib>=3.5.0
+pandas>=1.4.0
+tqdm>=4.63.0
+numpy>=1.21.0
+opencv_python>=4.5.5.64
+plyfile>=0.7.1
+MDAnalysis>=2.1.0
