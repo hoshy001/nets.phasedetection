@@ -55,7 +55,7 @@ Available soon.
   python process_pdb.py -c LAM -t -r
   ```
 
-  -c: name of the phases available form `.pdb` files (BCC, DIS, HPC, HPL, or LAM)\
+  -c: name of the phases available form `.pdb` files (BCC, DG, DIS, HPC, HPL, or LAM)\
   -t: perform random translations of point clouds wrapped by periodic boundary conditions\
   -r: perform random uniform rotations of point clouds wrapped by periodic boundary conditions
 
@@ -85,7 +85,7 @@ Available soon.
   -d: data path\
   -m: choose one of the models `PointNet` or `PCCT` to use\
   -r: use `random sampling` otherwise it uses `FPS` to select points from each point cloud\
-  advanced options\
+  **advanced options**\
   -w: number of subprocesses|workers to use for data loading\
   -o: output folder name\
   -l: load model from a saved model path\
