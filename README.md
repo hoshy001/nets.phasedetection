@@ -34,8 +34,8 @@ Available soon.
 ### Prerequisites
 
   ```sh
-  conda create -n pcct python=3.9
-  conda activate pcct
+  conda create -n nets python=3.9
+  conda activate nets
 
   pip install -r requirements.txt
   ```
