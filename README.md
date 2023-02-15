@@ -85,7 +85,7 @@ Available soon.
   -d: data path\
   -m: choose one of the models `PointNet` or `PCCT` to use\
   -r: use `random sampling` otherwise it uses `FPS` to select points from each point cloud\
-  **advanced options**\
+  **Advanced options**\
   -w: number of subprocesses|workers to use for data loading\
   -o: output folder name\
   -l: load model from a saved model path\
@@ -97,7 +97,7 @@ Available soon.
 
 ## Results
 
-The highest accuracy and the corresponding confusion matrices for different models:
+Available soon.
 
 ### Test Accuracy
 
